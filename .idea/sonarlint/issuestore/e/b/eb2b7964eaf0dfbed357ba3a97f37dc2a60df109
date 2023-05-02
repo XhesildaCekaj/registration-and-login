@@ -1,0 +1,8 @@
+
+V	java:S125&"<This block of commented-out lines of code should be removed.(óÊİ¢ùÿÿÿÿ
+h
+java:S62049"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+M
+java:S16118"2Remove the parentheses around the "user" parameter(ı·€íùÿÿÿÿ
+`
+java:S16128"EReplace this lambda with method reference 'this::convertEntityToDto'.(ı·€íùÿÿÿÿ
